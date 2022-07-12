@@ -1,0 +1,48 @@
+.tn_item:hover{
+    box-shadow: 0px 0px 15px #999;
+    transition: all 0.2s linear;
+    cursor: pointer;
+}
+.text_tf:hover{
+    text-decoration-style:solid;
+    transition: all 0.2s linear;
+    cursor: pointer;
+}
+.logo,.bn_ft_img :hover{
+    cursor: pointer;
+}
+.text_tf:hover{
+    color: orange;
+}
+.item_news:hover{
+    box-shadow: 0px 0px 15px #999;
+    transition: all 0.2s linear;cursor: pointer;
+}
+.blog_item{
+    margin-top: 15px;
+    transition: all 0.2s linear;
+}
+.khoahoc_banner_conten:hover{
+    margin-top: -15px;
+    transition: all 0.2s linear;
+    cursor: pointer;
+}
+.header_menu ul li a:hover{
+    color: orange;
+}
+.icon_menu:hover{
+    cursor: pointer;
+}
+.blog_item:hover{
+    margin-top: -15px;
+    transition: all 0.2s linear;
+}
+.bl{
+    display: block;
+}
+.none{
+    display: none;
+}
+.addr_item:hover{
+    color: orange;
+}
